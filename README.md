@@ -15,7 +15,7 @@ During the race, you can open the Pause menu by clicking Tab/P. In the Pause men
 
 <img src="https://user-images.githubusercontent.com/18152364/199503244-acafb3ce-7040-4552-9efc-25af724b044b.png" width="600" height="341" />
 
-By controlling PlayerKart, you can move through the current track. Or you can try it out in our WebGL build: **link**
+By controlling PlayerKart, you can move through the current track. Or you can try it out in our WebGL build: **https://nordeus.github.io/jobfair22-gamedev-challenge/**
 
 ![](https://github.com/Nordeus/jobfair22-gamedev-challenge/blob/main/gameplay.gif)
 
