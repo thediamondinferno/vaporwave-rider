@@ -2,12 +2,12 @@
 
 - [Install Unity 2020.3.34f1](https://unity3d.com/get-unity/download/archive)
 - [Fork Repository to your GitHub](https://github.com/Nordeus/jobfair22-gamedev-challenge) 
-- **Import Project** to Unity and make sure to select the **WebGL platform** before opening 
+- **Import forked Project** to Unity and make sure to select the **WebGL platform** before opening 
 - Development resolution in GameView should be 1920x1080
  
 <h4>Game Description:</h4>
 
-We are kicking off our challenge by taking over Unity's template of the [karting game](https://assetstore.unity.com/packages/templates/karting-microgame-150956). For controls, we use standard keys: WASD/arrows. For controls, we use standard keys: WASD/arrows. You can try out the gameplay by opening the IntroMenu scene and going into play mode.
+We are kicking off our challenge by taking over Unity's template of the [karting game](https://assetstore.unity.com/packages/templates/karting-microgame-150956). For controls, we use standard keys: WASD/arrows. You can try out the gameplay by opening the IntroMenu scene and going into play mode.
 
 <img src="https://user-images.githubusercontent.com/18152364/199502978-6441e921-4973-4638-92b9-c55654e6cd04.png" width="600" height="341" />
 
