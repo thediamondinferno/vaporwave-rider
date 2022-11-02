@@ -1,7 +1,7 @@
 <h4>Setup:</h4>
 
 - [Install Unity 2020.3.34f1](https://unity3d.com/get-unity/download/archive)
-- [Fork Repository to your GitHub](https://assetstore.unity.com/packages/templates/karting-microgame-150956) 
+- [Fork Repository to your GitHub](https://github.com/Nordeus/jobfair22-gamedev-challenge) 
 - **Import Project** to Unity and make sure to select the **WebGL platform** before opening 
 - Development resolution in GameView should be 1920x1080
  
