@@ -1,3 +1,5 @@
+Hosted on Itch.io, check here 👉 https://thediamondinferno.itch.io/vaporwave-rider
+
 Thank you for the given chance to work on such a cool challenge and become the winner even!
 
 The build is messy, but hopefully, will become polished and made into a proper game very soon.
