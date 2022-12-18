@@ -1,0 +1,4 @@
+# Starting compiling Assembly-CSharp.dll
+S:\Unity\2020.3.41f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-40460462bafffc84baf6b79fc6f9c104
+# Starting IL post processing on Assembly-CSharp.dll
+S:/Unity/2020.3.41f1/Editor/Data/MonoBleedingEdge/bin/mono.exe S:/Unity/2020.3.41f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @"S:/Faster Unity Gameys/jobfair22-gamedev-challenge-vaporwave-edition/Temp/UnityTempFile-705df90022f5a4348bfd27e0e8aa9327"

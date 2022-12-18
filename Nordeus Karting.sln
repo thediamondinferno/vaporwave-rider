@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{67807a4e-a101-b4e3-2023-bc09a48ff91e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame", "KartGame.csproj", "{4a2546cf-4513-1f33-a3d4-a4462fee4fd5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.AI", "KartGame.AI.csproj", "{b14a735d-6b88-87da-13ea-1a53ce4565f4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCreator", "PathCreator.csproj", "{93710c91-d012-fa4d-a0a0-2f2af0f45683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyButtons", "EasyButtons.csproj", "{477fa307-ff73-1f3c-7410-b6bb30842971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Microgame.Tutorials", "Unity.Microgame.Tutorials.csproj", "{aaa99b9f-37cf-b3c7-54ba-6edd5dc4f498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCreatorEditor", "PathCreatorEditor.csproj", "{b23c0d72-2a7c-78e1-e42a-6036647fae4e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyButtons.Editor", "EasyButtons.Editor.csproj", "{b2e2bd87-78e6-ad8c-5465-c80961b4ca2b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.AI.Editor", "KartGame.AI.Editor.csproj", "{3ea6c607-7069-d2c9-bd59-3c0559787b24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.Editor", "KartGame.Editor.csproj", "{87dff17a-774d-a596-221c-a6046ed89596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{67f1ecc5-3952-2ef3-6506-474befb5c423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Karting.Tutorials", "Unity.Karting.Tutorials.csproj", "{8fdc8831-0eb7-44e5-e444-28b3ea4e5fee}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67807a4e-a101-b4e3-2023-bc09a48ff91e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67807a4e-a101-b4e3-2023-bc09a48ff91e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4a2546cf-4513-1f33-a3d4-a4462fee4fd5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4a2546cf-4513-1f33-a3d4-a4462fee4fd5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b14a735d-6b88-87da-13ea-1a53ce4565f4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b14a735d-6b88-87da-13ea-1a53ce4565f4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93710c91-d012-fa4d-a0a0-2f2af0f45683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93710c91-d012-fa4d-a0a0-2f2af0f45683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477fa307-ff73-1f3c-7410-b6bb30842971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477fa307-ff73-1f3c-7410-b6bb30842971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{aaa99b9f-37cf-b3c7-54ba-6edd5dc4f498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{aaa99b9f-37cf-b3c7-54ba-6edd5dc4f498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b23c0d72-2a7c-78e1-e42a-6036647fae4e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b23c0d72-2a7c-78e1-e42a-6036647fae4e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b2e2bd87-78e6-ad8c-5465-c80961b4ca2b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b2e2bd87-78e6-ad8c-5465-c80961b4ca2b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ea6c607-7069-d2c9-bd59-3c0559787b24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ea6c607-7069-d2c9-bd59-3c0559787b24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87dff17a-774d-a596-221c-a6046ed89596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87dff17a-774d-a596-221c-a6046ed89596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67f1ecc5-3952-2ef3-6506-474befb5c423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67f1ecc5-3952-2ef3-6506-474befb5c423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8fdc8831-0eb7-44e5-e444-28b3ea4e5fee}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8fdc8831-0eb7-44e5-e444-28b3ea4e5fee}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
