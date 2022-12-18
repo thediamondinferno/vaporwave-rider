@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{221af789-1b81-6942-1e15-0b1498d08ed3}</ProjectGuid>
+    <ProjectGuid>{48404d1d-a2b7-8a26-ab79-fac4d428d130}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -36,67 +36,50 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Kino\Motion\Script\FrameBlendingFilter.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathSpawner.cs" />
      <Compile Include="Assets\Scripts\ChunkGenerator.cs" />
+     <Compile Include="Assets\Scripts\AnotherMotorcycleController.cs" />
      <Compile Include="Assets\Scripts\CreateTerrainScript.cs" />
-     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\Jiggler.cs" />
-     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Platformer\EmitParticlesOnLand.cs" />
      <Compile Include="Assets\Scripts\MotorcycleController.cs" />
-     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\SimpleTrigger.cs" />
-     <Compile Include="Assets\SimpleBikeController.cs" />
+     <Compile Include="Assets\Scripts\SimpleBikeController.cs" />
      <Compile Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\Assets\MyBike\RearLookAt.cs" />
      <Compile Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\Assets\NeonSphere - Starter Pack\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Backend\TemplateEditorDetection.cs" />
      <Compile Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\Assets\MyBike\Skidmarks\Skidmarks Essentials\Skidmarks.cs" />
      <Compile Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\Assets\MyBike\MyBikeControll.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs" />
      <Compile Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\Assets\NeonSphere - Starter Pack\Scripts\PlayerController.cs" />
      <Compile Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\Assets\MyBike\Skidmarks\WheelSkidmarks.cs" />
-     <Compile Include="Assets\Mod Assets\ModResources\Scripts\BallGame\EmitParticlesOnBallBounce.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathPlacer.cs" />
      <Compile Include="Assets\Scripts\CreateObjectsScript.cs" />
      <Compile Include="Assets\Scripts\CreateTracks.cs" />
-     <Compile Include="Assets\Kino\Motion\Script\ReconstructionFilter.cs" />
      <Compile Include="Assets\EasyButtons-master\EasyButtons-master\Assets\EasyButtons\Samples\ScriptableObjectExample\ScriptableObjectExample.cs" />
-     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\EmitParticlesOnKartBounce.cs" />
      <Compile Include="Assets\EasyButtons-master\EasyButtons-master\Assets\EasyButtons\Samples\CustomEditorButtonsExample\CustomEditorButtonsExample.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathSceneTool.cs" />
      <Compile Include="Assets\EasyButtons-master\EasyButtons-master\Assets\EasyButtons\Samples\ButtonsExample\ButtonsExample.cs" />
      <Compile Include="Assets\Scripts\TriggerChunkGen.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathFollower.cs" />
      <Compile Include="Assets\Scripts\CameraFOV.cs" />
-     <Compile Include="Assets\Kino\Motion\Motion.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs" />
-     <Compile Include="Assets\AnotherMotorcycleController.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
-     <None Include="Assets\Kino\Motion\Shader\Reconstruction.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
-     <None Include="Assets\Karting\Art\Fonts\ApacheLicense2.0.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials\LiberationSans - OFL.txt" />
-     <None Include="Assets\Kino\Motion\Shader\Reconstruction.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
-     <None Include="Assets\Kino\Motion\Shader\FrameBlending.shader" />
-     <None Include="Assets\Kino\Motion\Shader\Common.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\EasyButtons-master\EasyButtons-master\LICENSE.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
-     <None Include="Assets\Kino\Motion\Shader\Prefilter.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\ProjectSettings\ProjectVersion.txt" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\UnityMotorbikeController-main\UnityMotorbikeController-main\Assets\MyBike\Skidmarks\Skidmarks Essentials\Skidmarks.shader" />
-     <None Include="Assets\Karting\KartingMicrogame_README.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
-     <None Include="Assets\Karting\ThirdPartyNotice.txt" />
     <Reference Include="UnityEngine">
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -314,37 +297,37 @@
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression.FileSystem">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.connect.share@4.1.1\Plugins\System.IO.Compression.FileSystem.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.connect.share@4.1.1\Plugins\System.IO.Compression.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.barracuda@1.0.4\Barracuda\Runtime\Plugins\ProtoBuffer\Google.Protobuf.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.barracuda@1.0.4\Barracuda\Runtime\Plugins\ProtoBuffer\Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.Unsafe.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.TestingHelpers.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
     <Reference Include="System.Interactive.Async">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\System.Interactive.Async.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\Grpc.Core.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\Grpc.Core.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -692,184 +675,160 @@
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.iOSBLAS">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Barracuda.iOSBLAS.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Barracuda.iOSBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ML-Agents">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ML-Agents.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ML-Agents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ML-Agents.CommunicatorObjects">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ML-Agents.CommunicatorObjects.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ML-Agents.CommunicatorObjects.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.MacBLAS">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Barracuda.MacBLAS.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Barracuda.MacBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.BurstBLAS">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Barracuda.BurstBLAS.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Barracuda.BurstBLAS.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.InteractiveTutorialsFramework">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Barracuda.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Barracuda.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Play.Publisher.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Play.Publisher.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Play.Publisher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Barracuda.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Barracuda.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ML-Agents.Editor">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ML-Agents.Editor.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ML-Agents.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="EasyButtons.Editor.csproj">
-      <Project>{1e02995b-7a42-d93f-0a28-654bc774156c}</Project>
+      <Project>{52884622-d11a-0de8-341b-b4f64fb93dfa}</Project>
       <Name>EasyButtons.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="EasyButtons.csproj">
-      <Project>{d758d568-ed9e-73bc-82e4-175f6e0df74a}</Project>
+      <Project>{c6e7257f-13bc-81c2-b0e6-891f52de7403}</Project>
       <Name>EasyButtons</Name>
     </ProjectReference>
-    <ProjectReference Include="KartGame.Editor.csproj">
-      <Project>{4db60dde-77ab-3cc2-da3a-2b3a8281f38c}</Project>
-      <Name>KartGame.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="PathCreatorEditor.csproj">
-      <Project>{90a9b9c8-f7a3-2f68-e147-87d44bfcb80e}</Project>
+      <Project>{c9d6baf9-c768-cce0-ef13-c57a845aca1a}</Project>
       <Name>PathCreatorEditor</Name>
     </ProjectReference>
-    <ProjectReference Include="KartGame.csproj">
-      <Project>{135ca98b-2af2-b9b3-2da5-a11dfe30ca8b}</Project>
-      <Name>KartGame</Name>
-    </ProjectReference>
     <ProjectReference Include="PathCreator.csproj">
-      <Project>{2b6a51ea-43cf-63b6-ccf3-dbd0cc279490}</Project>
+      <Project>{7044511c-710f-c646-bf13-3abcd26f870c}</Project>
       <Name>PathCreator</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Microgame.Tutorials.csproj">
-      <Project>{ee7c36ec-f573-8e88-f1d8-fe1ac60e5b67}</Project>
-      <Name>Unity.Microgame.Tutorials</Name>
-    </ProjectReference>
-    <ProjectReference Include="KartGame.AI.Editor.csproj">
-      <Project>{9d2cccef-feea-e1cd-1d56-790211d53a87}</Project>
-      <Name>KartGame.AI.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Karting.Tutorials.csproj">
-      <Project>{b5c2a413-fc93-e068-1c4c-e5017c6bcbe5}</Project>
-      <Name>Unity.Karting.Tutorials</Name>
-    </ProjectReference>
-    <ProjectReference Include="KartGame.AI.csproj">
-      <Project>{5590b57d-2a21-06af-5ee4-50908663d0de}</Project>
-      <Name>KartGame.AI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

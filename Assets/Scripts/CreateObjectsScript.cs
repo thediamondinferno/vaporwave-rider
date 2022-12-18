@@ -41,7 +41,7 @@ public class CreateObjectsScript : MonoBehaviour
 
                 //int offsetY = 0;
                 int scaleOffset = 0;
-                if(Prefabs[i].name.Contains("GroundObject1")) {
+                if(Prefabs[i].name.Contains("GroundObject3")) {
                     //offsetY = 80;
                     scaleOffset = 10;
                 }

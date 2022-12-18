@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{90a9b9c8-f7a3-2f68-e147-87d44bfcb80e}</ProjectGuid>
+    <ProjectGuid>{c9d6baf9-c768-cce0-ef13-c57a845aca1a}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PathCreatorEditor</AssemblyName>
@@ -279,55 +279,55 @@
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression.FileSystem">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.connect.share@4.1.1\Plugins\System.IO.Compression.FileSystem.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.connect.share@4.1.1\Plugins\System.IO.Compression.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.barracuda@1.0.4\Barracuda\Runtime\Plugins\ProtoBuffer\Google.Protobuf.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.barracuda@1.0.4\Barracuda\Runtime\Plugins\ProtoBuffer\Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.Unsafe.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.TestingHelpers.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
     <Reference Include="System.Interactive.Async">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\System.Interactive.Async.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\Grpc.Core.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\Grpc.Core.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.render-pipelines.core@10.10.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.render-pipelines.core@10.10.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -678,21 +678,21 @@
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PathCreator.csproj">
-      <Project>{2b6a51ea-43cf-63b6-ccf3-dbd0cc279490}</Project>
+      <Project>{7044511c-710f-c646-bf13-3abcd26f870c}</Project>
       <Name>PathCreator</Name>
     </ProjectReference>
   </ItemGroup>

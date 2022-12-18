@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{135ca98b-2af2-b9b3-2da5-a11dfe30ca8b}</ProjectGuid>
+    <ProjectGuid>{39865571-2f9f-9e2d-d21a-392f8ba15d0d}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>KartGame</AssemblyName>
@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_41;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_MANAGED_UNITYTLS;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_WEBGL;UNITY_WEBGL;UNITY_WEBGL_API;UNITY_DISABLE_WEB_VERIFICATION;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_SPATIALTRACKING;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;UNITY_TEMPLATE_KART;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_41;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_MANAGED_UNITYTLS;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_WEBGL;UNITY_WEBGL;UNITY_WEBGL_API;UNITY_DISABLE_WEB_VERIFICATION;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_SPATIALTRACKING;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;UNITY_TEMPLATE_KART;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -326,52 +326,52 @@
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression.FileSystem">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.connect.share@4.1.1\Plugins\System.IO.Compression.FileSystem.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.connect.share@4.1.1\Plugins\System.IO.Compression.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.barracuda@1.0.4\Barracuda\Runtime\Plugins\ProtoBuffer\Google.Protobuf.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.barracuda@1.0.4\Barracuda\Runtime\Plugins\ProtoBuffer\Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.Unsafe.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.burst@1.6.6\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.TestingHelpers.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
     <Reference Include="System.Interactive.Async">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\System.Interactive.Async.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\Grpc.Core.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.ml-agents@1.0.8\Plugins\ProtoBuffer\Grpc.Core.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.render-pipelines.core@10.10.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.render-pipelines.core@10.10.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -719,22 +719,22 @@
         <HintPath>S:\Unity\2020.3.41f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>S:\Faster Unity Gameys\jobfair22-gamedev-challenge-vaporwave-edition\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>U:\GithubProjects\Unity\jobfair22-gamedev-challenge-vaporwave-edition\VaporwaveRider\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
